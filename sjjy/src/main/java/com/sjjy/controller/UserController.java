@@ -31,6 +31,4 @@ public class UserController {
         return result;
     }
 
-    public void aa(){}
-
 }
